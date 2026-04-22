@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Brandon 👋
 
-<!--
-**bdguidry3/BDGuidry3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer + AI Product Manager** building equity-centered data systems.
 
-Here are some ideas to get you started:
+## Currently building
+- Education Equity Data Platform (Python, PostgreSQL, dbt)
+- Completing the Data Engineering Zoomcamp
+- Pursuing AWS Data Engineer Associate certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+15 years as a learning strategist at Dalton, American School in London, and Brentwood.
+Dual MS from Stanford GSE and Columbia Teachers College.
+Now bringing storytelling, stakeholder management, and equity expertise to data.
+
+## Tech stack
+Python · SQL · PostgreSQL · dbt · Docker · AWS · Git
+
+## Let’s connect
+[🔗 LinkedIn](https://linkedin.com/in/bdguidry)
+
