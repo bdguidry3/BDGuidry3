@@ -8,7 +8,7 @@
 - Pursuing AWS Data Engineer Associate certification
 
 ## Background
-15 years as a learning strategist at Dalton, American School in London, and Brentwood.
+15 years as a Learning Strategist at Dalton, American School in London, and Brentwood.
 Dual MS from Stanford GSE and Columbia Teachers College.
 Now bringing storytelling, stakeholder management, and equity expertise to data.
 
